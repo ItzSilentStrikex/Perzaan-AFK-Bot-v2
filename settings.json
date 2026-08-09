@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcstrikex365.mcsh.io",
-    "port": 25565,
+    "ip": "163.5.201.8",
+    "port": 11669,
     "version": "1.21.1"
   },
   "position": {
