@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
-    "password": "silent098",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ItzSilentStrikex",
-    "port": 25565,
+    "ip": "148.113.0.7",
+    "port": 17928,
     "version": "1.21.1"
   },
   "position": {
